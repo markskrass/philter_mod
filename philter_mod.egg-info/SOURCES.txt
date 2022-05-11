@@ -1,0 +1,8 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+philter_mod.egg-info/PKG-INFO
+philter_mod.egg-info/SOURCES.txt
+philter_mod.egg-info/dependency_links.txt
+philter_mod.egg-info/top_level.txt
