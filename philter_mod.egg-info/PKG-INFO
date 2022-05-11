@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: philter-mod
 Version: 1.0.0
 Summary: An open-source PHI-filtering software
-Home-page: https://github.com/markskrass/philter-ucsf
+Home-page: https://github.com/markskrass/philter_mod
 Author: Beau Norgeot (modified by Mark Krass)
 Author-email: beaunorgeot@gmail.com
 Classifier: Programming Language :: Python :: 3

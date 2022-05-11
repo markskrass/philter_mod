@@ -11,7 +11,7 @@ setuptools.setup(
     description="An open-source PHI-filtering software",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/markskrass/philter-ucsf",
+    url="https://github.com/markskrass/philter_mod",
     packages=setuptools.find_packages(),
     include_package_data=True,
     classifiers=[
